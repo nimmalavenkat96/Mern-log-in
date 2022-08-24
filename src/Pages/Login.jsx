@@ -7,7 +7,7 @@ export const Login = () => {
         <input/>
         <label>password</label>
         <input />
-<button>click</button>
+<button>click here</button>
     </div>
   )
 }
